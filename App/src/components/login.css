@@ -1,0 +1,19 @@
+p{
+    font-size: 23px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+form{
+    margin: auto;
+    padding: 20px;
+}
+
+h1{
+    padding-left: 30%;
+    padding-bottom: 40px;
+}
+
+button{
+    padding-top: 40px;
+}
